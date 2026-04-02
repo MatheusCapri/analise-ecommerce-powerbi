@@ -4,6 +4,16 @@ Projeto desenvolvido com o objetivo de analisar o desempenho de um e-commerce e 
 
 ---
 
+##  Dashboard
+
+###  Visão de Vendas
+![Dashboard Vendas](./imagens/dashboard-vendas.png)
+
+###  Visão do Cliente
+![Dashboard Clientes](./imagens/dashboard-clientes.png)
+
+---
+
 ## Objetivo
 
 Construir um dashboard gerencial para monitorar vendas, perfil de clientes e identificar oportunidades de crescimento no e-commerce.
